@@ -2,8 +2,8 @@ Data
 
 Sindhu Amireddy
 
-NWMSU
+NWMSU main
 
 Graduate program
 
-ACS
+ACS main
